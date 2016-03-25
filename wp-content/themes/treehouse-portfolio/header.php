@@ -26,25 +26,5 @@
       wp_nav_menu( $defaults );
 
     ?>
-<!--
-    <ul class="no-bullet">
-      <li class="current parent"><a class='current' href="index.html">Portfolio</a>
-        <ul class="sub-menu">
-          <li><a href="item.html">Portfolio Item</a></li>
-          <li><a href="item.html">Portfolio Item</a></li>
-          <li><a href="item.html">Portfolio Item</a></li>
-          <li><a href="item.html">Portfolio Item</a></li>
-        </ul>
-      </li>
-      <li class="parent"><a href="blog.html">Blog</a>
-        <ul class="sub-menu">
-          <li><a href="single-post.html">Single Post</a></li>
-          <li><a href="author.html">Author Page</a></li>
-        </ul>
-      </li>
-      <li><a href="about.html">About</a></li>
-      <li><a href="contact.html">Contact</a></li>
-    </ul>
--->
   </nav>
 </header>
